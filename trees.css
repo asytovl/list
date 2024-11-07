@@ -1,0 +1,22 @@
+
+dt{
+    font-weight: bold;
+}
+dt: :{
+    
+}
+header{
+    color: rgb(22, 112, 22);
+    background-color: rgb(172, 121, 53);
+    font-size: larger;
+    font-family: cursive;
+    text-align: center;
+}
+body{
+    size: 4455px;
+    background-color: rgb(230, 167, 85);
+}
+
+.evergreen li{
+    list-style: none;
+}
